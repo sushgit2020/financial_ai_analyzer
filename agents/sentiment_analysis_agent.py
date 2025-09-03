@@ -1,6 +1,5 @@
 """
-Sentiment Analysis Agent - FINAL POLISHED
-Fixed order: Run button -> Current Plots -> Previous Plots (no duplicates)
+Sentiment Analysis Agent 
 """
 
 import streamlit as st
