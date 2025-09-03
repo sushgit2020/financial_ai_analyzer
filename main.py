@@ -23,7 +23,7 @@ logger = logging.getLogger(__name__)
 def configure_page():
     """Configure Streamlit page settings"""
     st.set_page_config(
-        page_title="Financial AI Analyzer v3.0",
+        page_title="Financial AI Analyzer",
         page_icon="🏦",
         layout="wide",
         initial_sidebar_state="collapsed"
