@@ -13,8 +13,10 @@
 - **Data Preservation**: Previous bank data remains saved
 
 steps:
-1. install the pre req
+1. install the pre req :
+   
 pip install -r requirements.txt
 
-2. Run Streamlit
+2. Run Streamlit:
+   
 streamlit run main.py
